@@ -1,0 +1,13 @@
+{
+    "api_id": "API_ID",
+    "api_hash": "API_HASH",
+    "phone_number": "COUNTRY_CODE + PHONE NUMBER",
+    "notification_target": "@USERNAME",
+    "initial_channel_links": [
+        "https://t.me/CHANNEL_NAME",
+        "https://t.me/CHANNEL_NAME"
+    ],
+    "message_keywords": ["hacking", "scam", "drugs", "malware"],
+    "batch_size": 1000,
+    "channel_depth": 2
+}
