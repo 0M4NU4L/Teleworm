@@ -1,11 +1,10 @@
 {
-    "api_id": "API_ID",
-    "api_hash": "API_HASH",
-    "phone_number": "COUNTRY_CODE + PHONE NUMBER",
-    "notification_target": "@USERNAME",
+    "api_id": "25520603",
+    "api_hash": "6bdbb8909c9bf5815a322b2a33f8e646",
+    "phone_number": "+919907701588",
+    "notification_target": "@penguininsidethehoodie",
     "initial_channel_links": [
-        "https://t.me/CHANNEL_NAME",
-        "https://t.me/CHANNEL_NAME"
+        "https://t.me/cybersecuritynewschat"
     ],
     "message_keywords": ["hacking", "scam", "drugs", "malware"],
     "batch_size": 1000,
